@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Choice Johnson
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Rood
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Responsive
  
 </details>
 
@@ -37,14 +37,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.stedelijk.nl/nl
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  homepagina stedelijk museum  
+  <img src="readme-images/homescherm-stedelijk.png" width="375px" alt="home pagina stedelijk museum">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Ana Lupas pagina stedelijk museum
+  <img src="readme-images/analupas-stedelijk.png" width="375px" alt="Ana Lupas pagina stedelijk museum">
  
 </details>
 
@@ -57,6 +58,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  De website heeft al een goede toeganghelijkheid. Bij de WCAG checklist scoorde die veel ja's. 
+
+  Het viel me op dat ze ipv sections om de h2's, headers hebben gebruikt. Dus voor elk deel van de pagina waar een h2 wordt gebruikt zit een header tag om. 
+  Bij de alt text van de images zit geen nuttige informatie over de foto.
+  Text kan tot 200% groot worden maar verdwijnt deels uit het scherm.
 
 </details>
 
