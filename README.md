@@ -45,7 +45,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Ana Lupas pagina stedelijk museum
-  <img src="readme-images/analupas-stedelijk.png" width="375px" alt="Ana Lupas pagina stedelijk museum">
+  <img src="readme-images/essentials-stedelijk.png" width="375px" alt="Essentials pagina Stedelijk Museum">
  
 </details>
 
