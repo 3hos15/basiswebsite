@@ -68,7 +68,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-## Breakdownschets (week 1)
+## Breakdownschets (week 1) ***
 
 <details>
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
@@ -94,17 +94,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Het schrijven van de HTML ging gemakkelijk. Ik kon goed zien hoe de website in elkaar zit.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | choice         | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Vraag over     | en dit             | en ik dit    | en dan ik dat    |
+  | scroll home    | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | page           | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
