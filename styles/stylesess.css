@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    font-family: "Union Regular";
+}
+
+h1, h2 {
+	text-transform: uppercase;
+}
+
+video {
+    margin-top: 5.5em;
+}
+
+video::before {
+    content: "slay";
+}
+
+main section:nth-child(3) {
+    background-color: var(--color-essentials);
+}
+
+main section:nth-child(5) {
+    background-color: var(--color-black);
+    color: var(--color-white);
+}
+
