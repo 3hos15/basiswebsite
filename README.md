@@ -110,10 +110,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+ - Goed kijken naar dingen die een links of buttons zijn
+ - Elementen nesten
+ - aria-laber gebruiken
+ - 
 
 </details>
 
@@ -128,6 +128,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+
+  Het maken van het hamburger menu maken ging wat moeilijk omdat ik meerdere elementen probeerde op te roepen met 1 class, maar met wat hulp is het gelukt. Verder ben ik nog bezig met de styling
+
+    <img src="readme-images/screenshotweek3-1.jpg" width="375px" alt="essentials pagina">
+    <img src="readme-images/screenshotweek3-2.jpg" width="375px" alt="essentials pagina menu">
 
 
   ### Agenda voor meeting
