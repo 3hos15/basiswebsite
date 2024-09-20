@@ -131,17 +131,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Het maken van het hamburger menu maken ging wat moeilijk omdat ik meerdere elementen probeerde op te roepen met 1 class, maar met wat hulp is het gelukt. Verder ben ik nog bezig met de styling
 
-    <img src="readme-images/screenshotweek3-1.jpg" width="375px" alt="essentials pagina">
-    <img src="readme-images/screenshotweek3-2.jpg" width="375px" alt="essentials pagina menu">
+  <img src="readme-images/screenshotweek3-1.jpg" width="375px" alt="essentials pagina">
+  <img src="readme-images/screenshotweek3-2.jpg" width="375px" alt="essentials pagina menu">
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Choice         | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | nav in hambu-  | en dit             | en ik dit    | en dan ik dat    |
+  | ger menu.      | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
